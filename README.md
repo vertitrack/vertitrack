@@ -4,9 +4,9 @@
 
 ### Innovación Tecnológica que Impulsa el Futuro
 
-[![Website](https://img.shields.io/badge/Website-vertitrack.com-blue?style=for-the-badge&logo=google-chrome)](https://vertitrack.cl)
+[![Website](https://img.shields.io/badge/Website-vertitrack.cl-blue?style=for-the-badge&logo=google-chrome)](https://vertitrack.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VertiTrack-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/vertitrack)
-[![Email](https://img.shields.io/badge/Email-contact@vertitrack.com-red?style=for-the-badge&logo=gmail)](mailto:contacto@vertitrack.cl)
+[![Email](https://img.shields.io/badge/Email-contacto@vertitrack.cl-red?style=for-the-badge&logo=gmail)](mailto:contacto@vertitrack.cl)
 
 **Respaldados por CORFO - Proyecto Semilla Inicia**
 
