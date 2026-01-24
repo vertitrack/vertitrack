@@ -143,6 +143,6 @@ const perks: WhyVertiTrack = {
 **Agradecemos a:**
 
 ![CORFO](https://img.shields.io/badge/CORFO-Partner-green?style=for-the-badge)
-Esto es un test para mattermost
+
 
 </div>
