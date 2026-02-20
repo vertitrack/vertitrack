@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 VertiTrack
+# 🚀 Vertitrack
 
 ### Innovación Tecnológica que Impulsa el Futuro
 
@@ -104,26 +104,6 @@ const perks: WhyVertiTrack = {
 ```
 
 
-### 🔍 Posiciones Abiertas
-
-<div align="center">
-
-| Rol | Stack Principal | Nivel | Estado |
-|-----|----------------|-------|--------|
-| **Practicante Desarrollo** | Web Technologies | Junior | 🟢 Abierto |
-
-</div>
-
-**📧 Aplica ahora:** [contacto@vertitrack.cl](mailto:contacto@vertitrack.cl)
-
-**📄 Proceso:**
-1. Envía tu CV y portfolio/GitHub
-2. Screening call (30 min)
-3. Desafío técnico
-4. Entrevista técnica (1-2 horas)
-5. Entrevista cultural (30 min)
-6. ¡Oferta! 🎉
-
 ## 🏆 Logros y Reconocimientos
 
 <div align="center">
@@ -143,6 +123,5 @@ const perks: WhyVertiTrack = {
 **Agradecemos a:**
 
 ![CORFO](https://img.shields.io/badge/CORFO-Partner-green?style=for-the-badge)
-Esto es un test para mattermost
 
 </div>
